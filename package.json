@@ -1,12 +1,12 @@
 {
   "name": "jonbjornn.com",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "Personal site of Jon Bjornn",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server"
   },
-  "author": "",
+  "author": "Jon Bjornn",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.3.17",
@@ -17,6 +17,7 @@
     "babel-preset-stage-1": "^6.3.13",
     "css-loader": "^0.23.0",
     "html-webpack-plugin": "^1.7.0",
+    "normalize.css": "^3.0.3",
     "react-transform-catch-errors": "^1.0.0",
     "react-transform-hmr": "^1.0.1",
     "style-loader": "^0.13.0",
