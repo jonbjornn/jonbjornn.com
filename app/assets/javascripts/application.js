@@ -10,6 +10,10 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require imba
+//= require helpers
+//= require dynamic
+//
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
