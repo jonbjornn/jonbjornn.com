@@ -81,7 +81,4 @@ test:
 #     url: <%= ENV['DATABASE_URL'] %>
 #
 production:
-  <<: *default
-  database: jonbjornn_com_production
-  username: jonbjornn_com
-  password: <%= ENV['JONBJORNN_COM_DATABASE_PASSWORD'] %>
+# Nothing needed here since Heroku takes care of it
