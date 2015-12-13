@@ -82,4 +82,5 @@ test:
 #
 production:
   adapter: postgresql
+  url: <%= ENV['DATABASE_URL'] %>
 # Nothing needed here since Heroku takes care of it
