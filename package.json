@@ -1,0 +1,22 @@
+{
+  "name": "jonbjornn.com",
+  "version": "0.1.1",
+  "description": "The personal site of Jon Bjornn",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonbjornn/jonbjornn.com.git"
+  },
+  "author": "Jon Bjornn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonbjornn/jonbjornn.com/issues"
+  },
+  "homepage": "https://github.com/jonbjornn/jonbjornn.com#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2"
+  }
+}

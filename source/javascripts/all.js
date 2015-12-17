@@ -1,4 +1,4 @@
-//= require "bootstrap-sprockets"
+//= require bootstrap
 //= require scripts
 
 

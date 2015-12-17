@@ -25,6 +25,12 @@ end
 
 activate :autoprefixer
 
+####
+## Integrate npm
+####
+
+files.watch :source, path: File.expand_path('node_modules', app.root)
+
 ###
 # Helpers
 ###
