@@ -1,4 +1,5 @@
-//= require bootstrap-sprockets
+//= require "bootstrap-sprockets"
+//= require scripts
 
 
 $(document).ready(function() {
